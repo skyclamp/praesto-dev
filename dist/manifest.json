@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "publishedAtUtc": "2026-08-26T08:15:29.658924+00:00",
+  "source": {
+    "branch": "main",
+    "commit": "892c64fa06c7b11d251c220c5759f4cc11f01d3b",
+    "dirty": false
+  },
+  "packages": [
+    {
+      "name": "agent_gateway_protocol-1.0.0-py3-none-any.whl",
+      "sha256": "ff3f9ac6b72c019abefa9ca763aa10214cdc27e1545e6c8380f93f63be0437da"
+    },
+    {
+      "name": "os_sandbox-0.1.0-py3-none-any.whl",
+      "sha256": "03ba44a986dc4394783e635771f44be7c9eb6170c192b726ba7a05ac4118fa7a"
+    },
+    {
+      "name": "praesto_telemetry-0.1.0-py3-none-any.whl",
+      "sha256": "34f4a8457e8473dad52c98d0a08d85bc29239781cf1d53ab1a5dd1d9050950af"
+    },
+    {
+      "name": "praestoclaw-1.0.0-py3-none-any.whl",
+      "sha256": "db2e14181a1c35e231f4b02c9cb4399a62e2cefdf729e6a10ae271192b2b3a3f"
+    }
+  ],
+  "teamsPackage": {
+    "name": "PraestoClaw-teams-app-dev.zip",
+    "sha256": "82395ce9f88e0146941c1a32bae7fc0f1ef94df4b1461328ec15cd3a06583ffb"
+  }
+}
