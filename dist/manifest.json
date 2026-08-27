@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "publishedAtUtc": "2026-08-26T09:51:49.057039+00:00",
+  "publishedAtUtc": "2026-08-27T05:11:57.075141+00:00",
   "source": {
-    "branch": "user/wej/260826-meeting-helper-1",
-    "commit": "9716c0587cc54ca8e081920992856ffd0d866178",
+    "branch": "user/wej/260827-group-mcp",
+    "commit": "4e4a7c97f8b6a1c44a296e8c3daadb1bea31cff8",
     "dirty": false
   },
   "packages": [
@@ -21,11 +21,11 @@
     },
     {
       "name": "praestoclaw-1.0.0-py3-none-any.whl",
-      "sha256": "c7dd5730b8ab80dccaefc97f469e97b2e0375f1b6fe904d242c61cec26f78a5d"
+      "sha256": "3880aea62424dd8e882d8099da418252b3269570436e40074593faaef84e3062"
     }
   ],
   "teamsPackage": {
     "name": "PraestoClaw-teams-app-dev.zip",
-    "sha256": "82395ce9f88e0146941c1a32bae7fc0f1ef94df4b1461328ec15cd3a06583ffb"
+    "sha256": "2908091a57f722a82e7db771d1d5f42f4d00d86666ac82a38a2388bac2283f55"
   }
 }
