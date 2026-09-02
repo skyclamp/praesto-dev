@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "publishedAtUtc": "2026-09-02T02:12:16.103693+00:00",
+  "publishedAtUtc": "2026-09-02T07:30:22.841219+00:00",
   "source": {
     "branch": "main",
-    "commit": "8fea8c92dad9164e8fde1e9ee0e6042bf4583120",
+    "commit": "b20698950ab200f6ff4c34310b1fb4db1be08e21",
     "dirty": false
   },
   "packages": [
@@ -21,7 +21,7 @@
     },
     {
       "name": "praestoclaw-1.0.0-py3-none-any.whl",
-      "sha256": "7379189c9e97f26557f05b2629dbb40b8fb7f4ee128ec453b446ee8ed75d0af4"
+      "sha256": "07ebc1f81d0e571ff20f7a396b164d2f1bf909c0b35e86eaf722c30c4ada0da1"
     }
   ],
   "teamsPackage": {
